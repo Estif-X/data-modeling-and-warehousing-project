@@ -90,7 +90,7 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/estifanos-a-08b873206/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estifanos-a-08b873206/)
 
 ---
 
@@ -104,4 +104,4 @@ Hi there! I'm **Estifanos Alamirew**. I’m a data engineer/data analyst who is 
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/estifanos-a-08b873206/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estifanos-a-08b873206/)
